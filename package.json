@@ -15,5 +15,12 @@
     "3"
   ],
   "author": "Mitch Wilkins",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MitchWilkins/ionic-lifecycle-interface"
+  },
+  "devDependencies": {
+    "typescript": "~2.4.2"
+  }
 }
