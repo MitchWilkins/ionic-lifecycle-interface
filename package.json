@@ -1,7 +1,7 @@
 {
   "_location": "/ionic-lifecycle-hooks",
   "name": "ionic-lifecycle-interface",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Provides basic TypeScript interfaces for the lifecycles of an Ionic 2+ page",
   "main": "index.ts",
   "scripts": {
