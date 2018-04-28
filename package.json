@@ -1,0 +1,19 @@
+{
+  "_location": "/ionic-lifecycle-hooks",
+  "name": "ionic-lifecycle-interface",
+  "version": "1.0.3",
+  "description": "Provides basic TypeScript interfaces for the lifecycles of an Ionic 2+ page",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ionic",
+    "lifecycle",
+    "hooks",
+    "ionic",
+    "3"
+  ],
+  "author": "Mitch Wilkins",
+  "license": "MIT"
+}
